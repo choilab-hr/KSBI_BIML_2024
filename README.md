@@ -1,10 +1,12 @@
-# KSBI-BIML 2024
+# KSBI-BIML 2024, Single-cell Multiomics
 Welcome to the **Single-cell Multiomics** session.  
 This is a GitHub repository for the session.  
 [Syllabus](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/biml2024/intro/off-12.pdf, "syllabus link")
 
 - 장소: 서울대학교 자연과학대학 28동 102호
 - 시간: 2024년 2월 27일 (화), 오전 9시 30분 ~ 오후 4시 50분
+- 연자: 최정민 교수
+- 조교: 김지현, 유광민, 이다준, 이문영, 이호진, 최승지, 천하림, 홍주현
 
 This session will cover:  
 1. Spatial Transcriptomics analysis
@@ -12,7 +14,7 @@ This session will cover:
 3. scATAC-seq data analysis and GRN construction
 
 # Prerequisites
-실습일 (2024년 2월 27일 화요일)전 아래의 과정을 따라서 R package와 필요한 자료를 다운로드 받아오시길 바랍니다.  
+실습일 (2024년 2월 27일 화요일)전 아래의 과정을 따라서 R, R studio를 설치하시고, 실습에 사용할 R package와 필요한 자료를 다운로드 받아오시길 바랍니다.  
   
 ## 0. devtools, BiocManager
 First, install devtools (for installing GitHub packages) if it isn’t already installed:
@@ -24,3 +26,25 @@ Then, install BiocManager (for installing bioconductor packages) if it isn’t a
 ```R
 if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocManager")
 ```
+## Part1. Spatial Transcriptomics analysis
+### R package
+### Materials
+## Part2. Multi-omics analysis with Spatial Transcriptomics
+### R package
+### Materials
+## Part3. scATAC-seq data analysis and GRN construction
+### R package
+### ArchR
+```R
+devtools::install_github("GreenleafLab/ArchR", ref="master", repos = BiocManager::repositories())
+```
+Install all of the ArchR dependencies that aren't installed by default:
+```R
+library(ArchR)
+ArchR::installExtraPackages()
+```
+### figR
+```R
+devtools::install_github("buenrostrolab/FigR")
+```
+### Materials
