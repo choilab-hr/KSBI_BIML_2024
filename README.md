@@ -28,11 +28,11 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocMana
 ```
 ## 1️⃣ Part1. Spatial Transcriptomics analysis
 ### R package
-### ❗️BayesSpace
+#### ❗️BayesSpace
 ```R
 BiocManager::install("BayesSpace")
 ```
-### ❗️hdf5r
+#### ❗️hdf5r
 ```R
 install.packages('hdf5r')
 ```
@@ -45,7 +45,7 @@ install.packages('hdf5r')
 추후 업데이트 예정
 ## 3️⃣ Part3. scATAC-seq data analysis and GRN construction
 ### R package
-### ❗️ArchR
+#### ❗️ArchR
 > ```R
 > devtools::install_github("GreenleafLab/ArchR", ref="master", repos = BiocManager::repositories())
 > ```
@@ -54,19 +54,19 @@ install.packages('hdf5r')
 > library(ArchR)
 > ArchR::installExtraPackages()
 > ```
-### ❗️figR
+#### ❗️figR
 ```R
 devtools::install_github("buenrostrolab/FigR")
 ```
-### ❗️patchwork
+#### ❗️patchwork
 ```R
 devtools::install_github("thomasp85/patchwork")
 ```
-### ❗️BSgenome.Hsapiens.UCSC.hg19
+#### ❗️BSgenome.Hsapiens.UCSC.hg19
 ```R
 BiocManager::install("BSgenome.Hsapiens.UCSC.hg19")
 ```
-### ❗️ggrastr
+#### ❗️ggrastr
 ```R
 devtools::install_github('VPetukhov/ggrastr')
 ```
