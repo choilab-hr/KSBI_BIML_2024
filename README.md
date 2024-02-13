@@ -7,7 +7,7 @@ This is a GitHub repository for the session.
 - **연자**: 최정민 교수
 - **조교**: 김지현, 유광민, 이다준, 이문영, 이호진, 최승지, 천하림, 홍주현
 - **강의 계획서**: [Syllabus](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/biml2024/intro/off-12.pdf, "syllabus link")
-- **강의 자료**: [강의자료](https://www.dropbox.com/scl/fi/0q5rerxe1w1ig356dadbn/20240213_BIML2024_Combined_-_v2.pdf?rlkey=dqtrvv830jv37ibl627lgcl0z&dl=0, "syllabus link")
+- **강의 자료**: [강의자료](https://www.dropbox.com/scl/fi/0q5rerxe1w1ig356dadbn/20240213_BIML2024_Combined_-_v2.pdf?rlkey=dqtrvv830jv37ibl627lgcl0z&dl=0, "강의자료")
 
 **This session will cover:**  
 1. Spatial Transcriptomics analysis
