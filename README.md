@@ -17,7 +17,7 @@ This session will cover:
 원활한 진행을 위해, **실습일 (2024년 2월 27일 화요일)** 전 R 및 R studio를 설치하시고,  
 아래의 과정에 따라 실습에 사용할 R package 및 필요한 자료를 다운로드해오시길 바랍니다.
   
-## 0️⃣. devtools, BiocManager
+## 0️⃣ devtools, BiocManager
 First, install devtools (for installing GitHub packages) if it isn’t already installed:
 ```R
 if (!requireNamespace("devtools", quietly = TRUE)) install.packages("devtools")
