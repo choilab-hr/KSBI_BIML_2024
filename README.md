@@ -93,4 +93,5 @@ BiocManager::install("BSgenome.Hsapiens.UCSC.hg19")
 devtools::install_github('VPetukhov/ggrastr')
 ```
 ### Materials
-추후 업데이트 예정
+1. ArchR: https://www.dropbox.com/scl/fi/6ao0s2jkgtuf9r6e70ir8/2024_BIML_markerGS.rds?rlkey=i1nft4ugjkwpldnmx3zxixzt9&dl=0
+2. FigR: https://www.dropbox.com/scl/fi/q63f4wr4jlwtva7z72i9g/FigR_stim.zip?rlkey=gibefa8gdtj4zto78rnvmuym1&dl=0
