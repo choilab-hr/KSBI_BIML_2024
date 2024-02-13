@@ -28,6 +28,10 @@ if (!requireNamespace("BiocManager", quietly = TRUE)) install.packages("BiocMana
 ```
 ## 1️⃣ Part1. Spatial Transcriptomics analysis
 ### R package
+#### ❗️Seurat
+```R
+remotes::install_version("Seurat", "4.4.0", repos = c("https://satijalab.r-universe.dev", getOption("repos")))
+```
 #### ❗️BayesSpace
 ```R
 BiocManager::install("BayesSpace")
@@ -36,11 +40,28 @@ BiocManager::install("BayesSpace")
 ```R
 install.packages('hdf5r')
 ```
-
+#### ❗️SingleCellExperiment
+```R
+BiocManager::install("SingleCellExperiment")
+```
 ### Materials
 추후 업데이트 예정
 ## 2️⃣ Part2. Multi-omics analysis with Spatial Transcriptomics
 ### R package
+#### ❗️scDblFinder
+```R
+BiocManager::install("scDblFinder")
+```
+#### ❗️spacexr
+```R
+options(timeout = 600000000) ### set this to avoid timeout error
+  devtools::install_github("dmcable/spacexr", build_vignettes = FALSE)
+```
+#### ❗️CellChat
+```R
+options(timeout = 600000000) ### set this to avoid timeout error
+  remotes::install_github("sqjin/CellChat")
+```
 ### Materials
 추후 업데이트 예정
 ## 3️⃣ Part3. scATAC-seq data analysis and GRN construction
