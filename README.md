@@ -65,8 +65,18 @@ options(timeout = 600000000) ### set this to avoid timeout error
 options(timeout = 600000000) ### set this to avoid timeout error
   remotes::install_github("sqjin/CellChat")
 ```
+#### ❗️Cottrazm
+Please refer to '2. Installation and requirement' in the vignette.  
+https://github.com/Yelab2020/Cottrazm/blob/main/doc/my-vignette.pdf
+
+### 10x Software
+#### ❗️10x genomics xenium explorer
+Please agree to the End User License Agreement and download 10x genomics xenium explorer.  
+https://www.10xgenomics.com/support/software/xenium-explorer/latest
+
 ### Materials
-추후 업데이트 예정
+https://www.dropbox.com/scl/fo/0xntiwvduozhbxqvgp65z/h?rlkey=3w5xzwrd8d313a7pk8hnklym2&dl=0
+
 ## 3️⃣ Part3. scATAC-seq data analysis and GRN construction
 ### R package
 #### ❗️ArchR
