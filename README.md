@@ -47,7 +47,7 @@ install.packages('hdf5r')
 BiocManager::install("SingleCellExperiment")
 ```
 ### Materials
-추후 업데이트 예정
+https://www.dropbox.com/scl/fo/r9epz6dl6dga1e7gs6anm/h?rlkey=5n0pzcrvw0elt2fp4m80m17ph&dl=0
 ## 2️⃣ Part2. Multi-omics analysis with Spatial Transcriptomics
 ### R package
 #### ❗️scDblFinder
