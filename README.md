@@ -17,8 +17,10 @@ This is a GitHub repository for the session.
 3. scATAC-seq data analysis and GRN construction
 
 # Prerequisites
-원활한 진행을 위해, **실습일 (2024년 2월 27일 화요일)** 전 R 및 R studio를 설치하시고,  
-아래의 과정에 따라 실습에 사용할 R package 및 필요한 자료를 다운로드해오시길 바랍니다.
+~~원활한 진행을 위해, **실습일 (2024년 2월 27일 화요일)** 전 R 및 R studio를 설치하시고,~~  
+~~아래의 과정에 따라 실습에 사용할 R package 및 필요한 자료를 다운로드해오시길 바랍니다.~~  
+❗️ KOBIC 서버를 활용한 실습을 진행할 예정이기때문에 아래의 R package와 Materials는 서버내에 미리 구축해둘 예정입니다. ❗️  
+❗️ 설치 및 다운로드는 선택사항입니다. ❗️
   
 ## 0️⃣ devtools, BiocManager
 First, install devtools (for installing GitHub packages) if it isn’t already installed:
