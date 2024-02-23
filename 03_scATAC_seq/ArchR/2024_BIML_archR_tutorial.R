@@ -13,7 +13,7 @@ library(ArchR)
 ArchR::installExtraPackages()
 
 # 1. Load library and download tutorial data ------------------------------
-biml_dir <- '~/Dropbox/Choi_lab/2024_BIML/tutorial/'
+biml_dir <- '~/Part3'
 setwd(biml_dir)
 
 ## 1.1. Load library ####
