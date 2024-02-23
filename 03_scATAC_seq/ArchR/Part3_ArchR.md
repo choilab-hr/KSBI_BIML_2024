@@ -24,7 +24,7 @@ ArchR::installExtraPackages()
 ```
 Set a working directory variable for the session:
 ```R
-biml_dir <- 'your/directory'
+biml_dir <- '~/Part3'
 setwd(biml_dir)
 ```
 
