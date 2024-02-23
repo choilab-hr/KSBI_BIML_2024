@@ -8,7 +8,7 @@ This is a GitHub repository for the session.
 - **조교**: 김지현, 유광민, 이다준, 이문영, 이호진, 최승지, 천하림, 홍주현
 - **강의 계획서**: [Syllabus](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/biml2024/intro/off-12.pdf, "syllabus link")
 - **강의 자료**: [강의자료](https://www.dropbox.com/scl/fi/mt5qcbcyhj0ot7logmrxz/20240219_BIML2024_Combined_v3_.pdf?rlkey=8b4bte0s8suyj83q4yh7715ob&dl=0, "강의자료")
-- **실습 강의 시간표**: ![timetable_hr](https://github.com/choilab-hr/KSBI_BIML_2024/assets/159281429/9790db00-1090-443d-8598-9f1590993911)
+- **실습 강의 시간표**: ![timetable_hr](![image](https://github.com/choilab-hr/KSBI_BIML_2024/assets/159281429/a5c99ed8-9a86-4f16-aa20-9bb90863bc71))
 
 
 **This session will cover:**  
