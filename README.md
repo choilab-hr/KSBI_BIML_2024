@@ -9,7 +9,7 @@ This is a GitHub repository for the session.
 - **강의 계획서**: [Syllabus](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/biml2024/intro/off-12.pdf, "syllabus link")
 - **실습 강의 자료**: [강의자료](https://www.dropbox.com/scl/fi/p4nu9k52jor7hf60e144j/20240223_BIML2024_Combined_-_v4.pdf?rlkey=xaj1c11i9mune32q2hb9ocr8v&dl=0, "강의자료")
 - **실습 강의 시간표**: ![image](https://github.com/choilab-hr/KSBI_BIML_2024/assets/159281429/c601675c-b748-4f98-9f76-b40067b8641a)
-- **실습 서버 ID**: https://github.com/choilab-hr/KSBI_BIML_2024/blob/main/04_Rstudio_server/main.md
+- **실습 서버 ID**: [실습 서버 ID](https://github.com/choilab-hr/KSBI_BIML_2024/blob/main/04_Rstudio_server/main.md, "실습서버ID")
 
 **This session will cover:**  
 1. Spatial Transcriptomics analysis
