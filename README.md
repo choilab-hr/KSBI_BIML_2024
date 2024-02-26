@@ -6,7 +6,7 @@ This is a GitHub repository for the session.
 - **시간**: 2024년 2월 27일 (화), 오전 9시 30분 ~ 오후 4시 50분
 - **연자**: 최정민 교수
 - **조교**: 김지현, 유광민, 이다준, 이문영, 이호진, 최승지, 천하림, 홍주현
-- **강의 계획서**: [Syllabus](https://journal-home.s3.ap-northeast-2.amazonaws.com/site/biml2024/intro/off-12.pdf, "syllabus link")
+- **강의 계획서**: [Syllabus](https://github.com/choilab-hr/KSBI_BIML_2024/blob/main/%20%E1%84%8E%E1%85%A5%E1%86%B7%E1%84%87%E1%85%AE1.(%E1%84%80%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%B4%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD)%20%E1%84%8E%E1%85%AC%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%86%E1%85%B5%E1%86%AB%20sc_multiomics%20(BIML%202024%20%E1%84%8B%E1%85%A9%E1%84%91%E1%85%B3%E1%84%85%E1%85%A1%E1%84%8B%E1%85%B5%E1%86%AB).pdf, "syllabus link")
 - **실습 강의 자료**: [강의자료](https://www.dropbox.com/scl/fi/2fegnrak8bhx7gi98oud9/20240226_BIML2024_Combined_v12_.pdf?rlkey=gcur0enuqir6cqtl4j3fuodf2&dl=0, "강의자료")
 - **실습 서버 ID**: [실습 서버 ID](https://github.com/choilab-hr/KSBI_BIML_2024/blob/main/04_Rstudio_server/main.md)
 - **실습 강의 시간표**: ![image](https://github.com/choilab-hr/KSBI_BIML_2024/assets/159281429/c601675c-b748-4f98-9f76-b40067b8641a)
