@@ -67,6 +67,11 @@ options(timeout = 600000000) ### set this to avoid timeout error
 options(timeout = 600000000) ### set this to avoid timeout error
   remotes::install_github("sqjin/CellChat")
 ```
+#### ❗️harmony
+```R
+install.packages("harmony")
+```
+
 #### ❗️Cottrazm
 Please refer to '2. Installation and requirement' in the vignette.  
 https://github.com/Yelab2020/Cottrazm/blob/main/doc/my-vignette.pdf
