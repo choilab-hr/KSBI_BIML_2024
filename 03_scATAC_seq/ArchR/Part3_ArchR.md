@@ -164,6 +164,23 @@ If a dimensionality reduction was not successfully done, don't worry.
 proj <- loadArchRProject(paste0(biml_dir, '/03_UMAP'))
 ```
 
+## tSNE
+```R
+## 8.3. TSNE ####
+proj <- addTSNE(ArchRProj = proj, reducedDims = "IterativeLSI", name = "TSNE")
+
+# UMAP colored by the Sample
+p1 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "Sample", embedding = "TSNE")
+
+# UMAP colored by the Clusters
+p2 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "Clusters", embedding = "TSNE")
+ggAlignPlots(p1, p2, type = "h")
+
+# Save a plot
+plotPDF(p1,p2, name = "Plot-TSNE-Sample-Clusters.pdf",
+        ArchRProj = proj, addDOC = FALSE, width = 5, height = 5)
+```
+
 # 9. Identifying Marker genes for each cluster
 ```R
 # Do not run below
