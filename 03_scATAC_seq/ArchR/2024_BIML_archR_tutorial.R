@@ -102,10 +102,10 @@ plotPDF(p1,p2, name = "Plot-UMAP-Sample-Clusters.pdf",
 ## 8.3. TSNE ####
 proj <- addTSNE(ArchRProj = proj, reducedDims = "IterativeLSI", name = "TSNE")
 
-# UMAP colored by the Sample
+# tSNE colored by the Sample
 p1 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "Sample", embedding = "TSNE")
 
-# UMAP colored by the Clusters
+# tSNE colored by the Clusters
 p2 <- plotEmbedding(ArchRProj = proj, colorBy = "cellColData", name = "Clusters", embedding = "TSNE")
 ggAlignPlots(p1, p2, type = "h")
 
