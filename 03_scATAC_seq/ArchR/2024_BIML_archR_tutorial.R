@@ -13,7 +13,7 @@ library(ArchR)
 ArchR::installExtraPackages()
 
 # 1. Load library and download tutorial data ------------------------------
-biml_dir <- '~/Part3/ArchR/'
+biml_dir <- '~/BIML/Part3/ArchR/'
 setwd(biml_dir)
 
 ## 1.1. Load library ####
