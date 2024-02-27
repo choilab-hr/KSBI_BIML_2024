@@ -55,6 +55,9 @@ BiocManager::install("SingleCellExperiment")
 ### Materials
 https://www.dropbox.com/scl/fo/r9epz6dl6dga1e7gs6anm/h?rlkey=5n0pzcrvw0elt2fp4m80m17ph&dl=0
 ## 2️⃣ Part2. Multi-omics analysis with Spatial Transcriptomics
+#### ❗️Cost Per Cell
+https://satijalab.org/costpercell/  
+
 ### R package
 #### ❗️scDblFinder
 ```R
